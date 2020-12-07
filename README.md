@@ -1,7 +1,7 @@
 # bioweapons-are-bad
 ### hyper wip
 #### based on [a great tutorial](http://rogueliketutorials.com/tutorials/tcod/v2/)
-a roguelike in python, with tcod. I followed the tut up to part 9, and then, some months ago when it had stagnated opted to keep working on my own. This hasnt been worked on in some time but I fear ill nuke my hard drive so I wished to save my work. 
+a roguelike in python, with tcod. I followed the tut up to part 9, and then, some months ago when it had stagnated opted to keep working on my own. This hasn't been worked on in some time but I fear ill nuke my hard drive so I wished to save my work. Finally, I would like to note that some of this was coded while I was still learning and is not representative of my current skills (read: spaggetti lies here), but I haven't had the time to fix it.
 
 ![shooting gif](https://user-images.githubusercontent.com/72410860/101397010-f60dc900-3880-11eb-989d-ef9e3ca309ff.gif)
 ![boom](https://user-images.githubusercontent.com/72410860/101397630-cd3a0380-3881-11eb-92c6-17b59604dadc.gif)
